@@ -34,12 +34,6 @@
 ###
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rafopm/rafopm/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
 
 <!---
